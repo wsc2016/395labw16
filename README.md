@@ -1,5 +1,7 @@
 # 395labw16
 
+The purpose of this repository is to help students learn how to use github to collaborate in CMPT 395 at MacEwan University.
+
 This is README files.  Every repository should have a README file so that people who are looking at
 it have some idea of what the purpose of the repository is.  
 
@@ -17,4 +19,3 @@ Markdown is handy for creating headers and other text emphasis like **bold**, *i
 - important
 - things
 
-The purpose of this repository is to help students learn how to use github to collaborate
